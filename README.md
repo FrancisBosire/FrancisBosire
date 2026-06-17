@@ -1,16 +1,32 @@
-## Hi there 👋
+👋Hi, I'm Francis Bosire
 
-<!--
-**FrancisBosire/FrancisBosire** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 ICS Year 3 Student at Strathmore University
+💻 Building projects with React, Laravel, PHP, MySQL, JavaScript
 
-Here are some ideas to get you started:
+📦 Current project: A modern full-stack Point of Sale (POS) and Inventory Management System for bars, restaurants, and retail businesses.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Learning: RESTful APIs, Tailwind CSS, and modern web design
+
+📫 Reach me: omwengafrank157@gmail.com
+
+🧠 Tech Stack
+Frontend: HTML, CSS, JavaScript ,JSX ,TSX
+Backend: PHP (Laravel), MySQL
+Tools: Git, VS Code, PhpStorm, WSL/Linux
+
+Projects
+🍽️ Billionaires POS & Restaurant Management System
+A full-stack restaurant and bar management platform featuring:
+
+Point of Sale (POS)
+Inventory Management
+Supplier Management
+Sales Reports
+Role-Based Access Control
+
+
+Status
+Completed and actively maintained as a portfolio project.
+
+
+⭐ "I love turning ideas into interactive web applications."
