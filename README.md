@@ -12,7 +12,7 @@
 🧠 Tech Stack
 Frontend: HTML, CSS, JavaScript ,JSX ,TSX
 Backend: PHP (Laravel), MySQL
-Tools: Git, VS Code, PhpStorm, WSL/Linux
+Tools: Git, VS Code, PhpStorm, WSL/Linux, Vercel, Render, Railway
 
 Projects
 🍽️ Billionaires POS & Restaurant Management System
